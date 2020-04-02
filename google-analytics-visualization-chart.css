@@ -1,0 +1,46 @@
+#google-analytics-visualization-chart-container {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.gapi-analytics-data-chart {
+    width: 100%;
+    height: 100%;
+}
+
+.v-slot-google-analytics-visualization-config-section {
+    min-width: 280px;
+}
+
+.google-analytics-visualization-config-section {
+    height: 100%;
+    background-color: #efefef;
+}
+
+.google-analytics-visualization-config-section .v-form-field-label {
+    text-align: left;
+    width: 85px;
+    padding-left: 15px;
+}
+
+.google-analytics-visualization-config-section .v-form-field-container {
+    padding-left: 100px;
+    padding-right: 10px;
+}
+
+.google-analytics-visualization-config-section .v-form-layout {
+    margin-top: 15px;
+}
+
+.google-analytics-visualization-config-section .v-slot-commit {
+    padding-left: 15px;
+    padding-top: 2px;
+}
+
+.google-analytics-visualization-config-section .v-datefield-error .v-textfield {
+    color: #ff0000;
+}
+
+.google-analytics-visualization-config-section .form-error {
+    display: none;
+}
